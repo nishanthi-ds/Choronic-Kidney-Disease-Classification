@@ -1,3 +1,5 @@
+# Choronic Kidney Disease Classification
+
 This project aims to develop a machine learning model to classify the presence of Chronic Kidney Disease (CKD) based on clinical and biological features. The model leverages a Random Forest classifier for robust and accurate predictions. The project includes the following steps:
 
 1- **Data Collection:** The CKD dataset contains 25 clinical features such as age, blood pressure, specific gravity, albumin, sugar, red blood cells, and more.
